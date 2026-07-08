@@ -1,0 +1,32 @@
+{
+  "name": "competitor-ad-parser-skill",
+  "version": "1.0.0",
+  "description": "Analyze competitor social ad copy texts to extract main marketing hooks and counter-positioning angles.",
+  "author": "alphaparkinc",
+  "category": "marketing",
+  "tags": [
+    "competitor-analysis",
+    "copywriting",
+    "hooks",
+    "marketing",
+    "seo"
+  ],
+  "inputs": {
+    "ad_copy": {
+      "type": "string",
+      "description": "Competitor advertisement copy text."
+    }
+  },
+  "outputs": {
+    "detected_hook": {
+      "type": "string",
+      "description": "Identified marketing appeal angle."
+    },
+    "counter_angle": {
+      "type": "string",
+      "description": "Suggested copy counter-positioning message."
+    }
+  },
+  "entrypoint": "client.py",
+  "example": "example_usage.py"
+}
