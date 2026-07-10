@@ -1,5 +1,5 @@
 {
-  "name": "competitor-ad-parser-skill",
+  "name": "genpark-competitor-ad-parser-skill",
   "version": "1.0.0",
   "description": "GenPark AI Agent Skill - Analyze competitor social ad copy texts to extract main marketing hooks and counter-positioning angles.",
   "author": "genpark",
