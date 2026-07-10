@@ -1,4 +1,4 @@
-# competitor-ad-parser-skill
+# genpark-competitor-ad-parser-skill
 
 > **GenPark AI Agent Skill** -- Competitor ad text analyzer and hook compiler.
 
